@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="TPOnlineDatingSite.main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<title>Dil Mil</title>
+    <link href="Content/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+     <script src="script/jquery-1.11.2.js"></script>
+       <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link href="tpstyle.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     <style>
+     
+        .nav-item {
+            color: black;
+            font-size: 1.7em;
+        }
+        
+    </style> 
+   
+</head>
+                                   <body>
+                                       <form id="form1" runat="server">
+                                           <div class="mainnav">
+    <nav class="navbar navbar-expand-md navbar navbar-dark bg-dark">
+        <a href="Homeuser.aspx" class="navbar-brand"><img src="img/logo.png" style="width:50px;height=50px;" /></a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav">
+               <a href="HomeMember.aspx" class="nav-item nav-link active">Home</a>
+                <a href="ViewProfile.aspx" class="nav-item nav-link">Profile</a>
+                <a href="Likeview.aspx" class="nav-item nav-link">LikePage</a>
+                <a href="Dislikeview.aspx" class="nav-item nav-link">DislikePage</a>
+                <a href="SendStatusReq.aspx" class="nav-item nav-link">SendRequest</a>
+                <a href="RequestView.aspx" class="nav-item nav-link">RequestPage</a>
+                <a href="FriendList.aspx" class="nav-item nav-link">DetingFriend</a>
+                <a href="Findpeople.aspx" class="nav-item nav-link">Search User</a>
+                <a href="UpdatePayment.aspx" class="nav-item nav-link">Payment Info</a>
+            </div>
+            <div class="navbar-nav ml-auto">
+                 <asp:Button class="btn btn-outline-danger my-2 my-sm-0" ID="btnlogout" runat="server" Text="LogOut" OnClick="btnlogout_Click" />
+            </div>
+        </div>
+    </nav>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+       </div>
+    </form>
+</body>
+</html>

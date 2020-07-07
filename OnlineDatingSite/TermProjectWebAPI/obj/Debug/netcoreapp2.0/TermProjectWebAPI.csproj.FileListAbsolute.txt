@@ -1,0 +1,11 @@
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\bin\Debug\netcoreapp2.0\TermProjectWebAPI.deps.json
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\bin\Debug\netcoreapp2.0\TermProjectWebAPI.runtimeconfig.json
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\bin\Debug\netcoreapp2.0\TermProjectWebAPI.runtimeconfig.dev.json
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\bin\Debug\netcoreapp2.0\TermProjectWebAPI.dll
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\bin\Debug\netcoreapp2.0\TermProjectWebAPI.pdb
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\obj\Debug\netcoreapp2.0\TermProjectWebAPI.csprojAssemblyReference.cache
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\obj\Debug\netcoreapp2.0\TermProjectWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\obj\Debug\netcoreapp2.0\TermProjectWebAPI.AssemblyInfoInputs.cache
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\obj\Debug\netcoreapp2.0\TermProjectWebAPI.AssemblyInfo.cs
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\obj\Debug\netcoreapp2.0\TermProjectWebAPI.dll
+C:\Users\rutvi\OneDrive\Desktop\CIS3342 server side\serversideTP\TermProjectWebAPI\obj\Debug\netcoreapp2.0\TermProjectWebAPI.pdb
