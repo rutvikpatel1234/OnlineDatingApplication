@@ -1,0 +1,55 @@
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.deps.json
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.json
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.dev.json
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csprojAssemblyReference.cache
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csproj.CoreCompileInputs.cache
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfoInputs.cache
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfo.cs
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+D:\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.deps.json
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.json
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.dev.json
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csprojAssemblyReference.cache
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfoInputs.cache
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfo.cs
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+C:\Users\rutvi\Downloads\DenimServerSide (1)\DenimServerSide\ServerSideDenim\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.deps.json
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.json
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.dev.json
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csprojAssemblyReference.cache
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfoInputs.cache
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfo.cs
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+C:\Users\rutvi\OneDrive\Desktop\New folder (3)\TPAPI\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.deps.json
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.json
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.dev.json
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csprojAssemblyReference.cache
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csproj.CoreCompileInputs.cache
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfoInputs.cache
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfo.cs
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+Z:\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.deps.json
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.json
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.runtimeconfig.dev.json
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\bin\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csprojAssemblyReference.cache
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.csproj.CoreCompileInputs.cache
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfoInputs.cache
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.AssemblyInfo.cs
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.dll
+D:\4-28-2020 final server side\TPOnlineDatingAPI\TPOnlineDatingAPI\obj\Debug\netcoreapp2.0\TPOnlineDatingAPI.pdb
